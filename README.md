@@ -24,7 +24,7 @@ La carpeta /src contiene los programas en C y los scripts asociados:
 ### 2.2. Documentos (docs)
 La carpeta /docs incluye documentos y gráficos generados durante la práctica:
 
-- [Computacion-paralela-MPI-PPC.pdf](docs/Computacion-paralela-MPI-PPC.pdf) practica_mpi.pdf: Documento que detalla la práctica, los ejercicios realizados y los resultados obtenidos.
+- [Computacion-paralela-MPI-PPC.pdf](docs/Computacion-paralela-MPI-PPC.pdf): Documento que ofrece una explicación general del proyecto y sus componentes.
 
 
 ## 3. Características Principales
